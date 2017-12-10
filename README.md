@@ -1,13 +1,3 @@
-#参照慕课网的  大众点评-react课程编写的(本例中,样式方面基本完全复制课程中的样式代码)
-
-
-主要改变
-- 使用webpack2.0+搭建环境
-- 使用react-router4.0+
-- 使用axios替代课程中的fetch
-- 扩充redux的使用,增加异步action
-
-运行
 ```
 //安装依赖
 npm install
